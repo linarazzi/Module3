@@ -1,0 +1,88 @@
+  * {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        .book-card {
+            background-color: #FFF;
+            box-shadow: 8px -3px 3px rgb(0 0 0 / 20%), 10px 8px 10px rgb(0 0 0 / 10%);
+            border: 1px solid #808080a6;
+            max-height: 100%;
+            flex-direction: column;
+        }
+        
+        .col-sm-auto {
+            margin-bottom: 20px;
+            height: auto;
+            max-height: 100%;
+            /*padding: 0;*/
+        }
+        
+        .col-sm-auto img {
+            max-width: 100%;
+        }
+        
+        .h-55 {
+            height: 55%;
+        }
+        
+        .h-85 {
+            height: 85%;
+        }
+        
+        .h-15 {
+            height: 15%;
+        }
+        
+        .w-40 {
+            width: 40%;
+        }
+        
+        .catalog {
+            font-size: 17px;
+            padding: 1rem;
+        }
+        
+        .advert {
+            display: flex;
+            padding-top: 100px;
+            justify-content: space-around;
+            align-items: center;
+        }
+        
+        .navbar-brand {
+            padding-left: 2rem;
+        }
+        
+        .navbar-dark .navbar-brand {
+            color: #6610f2;
+            letter-spacing: .1rem;
+        }
+        
+        .footer {
+            color: white;
+        }
+        
+        .text-block h5 {
+            color: #6610f2;
+            letter-spacing: .1rem;
+            font-weight: 600;
+        }
+        
+        .card-title {
+            background-color: #6610f2;
+            color: white;
+            font-weight: 600;
+        }
+        
+        .p01 {
+            padding: 0 1rem;
+        }
+        
+        .h-10 {
+            height: 10%;
+        }
